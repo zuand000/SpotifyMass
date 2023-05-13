@@ -1,0 +1,24 @@
+{
+	
+	"Profil" : {
+		"Github" : "https://github.com/tahaluindo",
+		"Facebook" : "https://www.facebook.com/cicicyber.squadindo.7",
+		"Telegram" : "t.me/anonsecteaminc"
+	},
+	
+	"about" : {
+		"info" : "Spotify Build 13 Mei 2023",
+		"url" : "https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code"
+		},
+	
+	"Setting" : {
+		"email_auto" : 1,
+		"repeat" : 1
+		},
+	
+	"Spotify" : {
+		"password" : "Tahaluindo",
+		"apikey_spotify" : "a2d4b979dc624757b4fb47de483f3505"
+		}
+
+}
